@@ -1,8 +1,8 @@
 This is data file to simulate changes. 
 Use rows velow to perform modifications on this file:
 1 [dev-1: 1]
-2 [adm: 1]
-3 [adm: 2]
+2 [conflict manually resolved: (you need to push arrows or X on the left AND on the right]
+3
 4
 5
 6
