@@ -1,7 +1,7 @@
 This is data file to simulate changes. 
 Use rows velow to perform modifications on this file:
-1 [dev-1]
-2 [adm] - fixed be [dev-1]
+1
+2
 3
 4
 5
@@ -9,6 +9,6 @@ Use rows velow to perform modifications on this file:
 7
 8
 9
-10 [dev-1]
+10
 11
 12
