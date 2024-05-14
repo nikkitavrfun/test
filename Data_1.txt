@@ -4,7 +4,9 @@ Use rows velow to perform modifications on this file:
 2 [conflict manually resolved: (you need to push arrows or X on the left AND on the right]
 3
 4
-5
+5 1
+6 1
+7 3
 6
 7
 8
